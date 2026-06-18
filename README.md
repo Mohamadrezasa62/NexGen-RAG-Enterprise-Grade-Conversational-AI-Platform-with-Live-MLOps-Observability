@@ -1,0 +1,2 @@
+# NexGen-RAG-Enterprise-Grade-Conversational-AI-Platform-with-Live-MLOps-Observability
+Enterprise conversational AI platform featuring an Advanced RAG pipeline via Flowise. Built with a production-grade UI, hybrid search orchestration, and a live MLOps observability dashboard monitoring real-time retrieval latency, RAG Triad accuracy, guardrail status, and token-level performance metrics for optimized GenAI inference.
